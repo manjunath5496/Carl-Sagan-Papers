@@ -6,7 +6,7 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Carl-Sagan-Papers/blob/main/c(1).pdf" style="text-decoration:none;">The Origins of Telicity</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Carl-Sagan-Papers/blob/main/c(1).pdf" style="text-decoration:none;">Can We Know the Universe?</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Carl-Sagan-Papers/blob/main/c(2).pdf" style="text-decoration:none;">Volcanic resurfacing rates and implications
 for volatiles on Io</a></li>
@@ -53,5 +53,21 @@ brightness asymmetry</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Carl-Sagan-Papers/blob/main/c(26).pdf" style="text-decoration:none;">Microenvironments for Life on Mars</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Carl-Sagan-Papers/blob/main/c(27).pdf" style="text-decoration:none;">
 The prospects for life on Mars: A pre-viking assessment</a></li>
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Carl-Sagan-Papers/blob/main/c(28).pdf" style="text-decoration:none;">Direct contact among galactic civilizations by relativistic interstellar spaceflight</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Carl-Sagan-Papers/blob/main/c(29).pdf" style="text-decoration:none;">
+The Trouble with Venus </a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Carl-Sagan-Papers/blob/main/c(30).pdf" style="text-decoration:none;">A Message from Earth</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Carl-Sagan-Papers/blob/main/c(31).pdf" style="text-decoration:none;">
+Why we need to understand science</a></li>
+   
+     
+   
+   
+   
+   
+   
+   
    
  </ul>
